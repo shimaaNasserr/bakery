@@ -1,0 +1,265 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Alegreya;
+}
+.active:active{
+    color: red!important;
+}
+.content{
+    background-image: url(../images/drew-coffman-1872.jpg);
+    background-position: 50%;
+    background-size: cover;
+    text-align: center;
+    height: 100%;
+}
+.navbar{
+    background-color: transparent;
+}
+.navbar .navbar-nav a{
+    color: white!important;
+    font-size: 17px;
+    font-weight: 200;
+}
+.navbar-brand{
+    color: white!important;
+    font-size: 45px;
+    font-weight: 500;
+
+}
+.navbar-nav{
+    margin-right: 15px;
+}
+.navbar-nav li a{
+margin-left: 20px;
+
+}
+.par1{
+    color: #ccc;;
+    text-align: center;
+    font-size:  24px;;
+    margin-top: 40px;
+    margin-bottom: 25px;
+    font-family: Alegreya;
+}
+.content h1{
+    font-size: 70px;
+    font-weight: bold;
+    font-family: Alegreya;
+    text-align: center;
+    color: white;
+}
+.par2{
+    color: #ccc;
+    font-size: 24px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.btn1{
+background-color: #8e7754;
+padding: 15px 20px;
+border-radius: 5px;
+color: white;
+font-size: 16px;
+}
+.btn1:hover{
+    background-color: #403d38;
+    color: white;
+}
+.btn2{
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.btn2:hover{
+    background-color: rgb(157, 71, 71);
+    color: white;
+}
+.content button{
+    margin: 5px;
+}
+.content2 {
+    display: inline-block; 
+  margin: auto;
+  text-align: center;
+}
+.content2-img{
+    display: inline-block;
+    width: 39%;
+    padding: 15px 20px 0px;
+     margin-top: 50px;
+    margin-left: 50px; 
+}
+.content2-img img{
+    width: 100%;
+}
+.content2-content{
+display: inline-block;
+ width:50%;
+ /* padding: 15px 20px 0px; */
+color: #686868;;
+ vertical-align: top;
+ margin-top: 5%;
+ font-family: Alegreya;
+}
+
+.content2 h2{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.content2-content p {
+    margin-bottom: 50px;
+    line-height: 1.86em;
+}
+.list {
+    text-align: left;
+    margin-bottom: 50px;
+    line-height: 1.5em;
+    font-size: 18px;
+}
+.list ul li {
+    margin: 20px;
+}
+.content3{
+    background-color: #f8f8f8;;
+    margin-top: 10px;
+    padding: 40px 0px;
+}
+.content3-content {
+    display: inline-block;
+    width: 50%;
+    color:  #686868;
+    font-family: Alegreya;
+    text-align: center;
+    vertical-align: top;
+    margin-top: 5%;
+}
+.content3-img{
+display: inline-block;
+ width:40%;
+ margin: 10px;
+
+}
+.content3-content h2{
+    color: black;
+    margin-bottom: 40px;
+}
+.content3-content p{
+    margin: 0px 35px;
+    line-height: 1.86em;
+    font-size: 18px;
+    
+}
+.content3-img img{
+    width: 100%;
+}
+.items{
+    text-align: center;
+}
+.item{
+  
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+    margin: 25px;
+}
+img{
+    width: 100%;
+}
+.baking-h2{
+    text-align: center;
+}
+.baking-par{
+    text-align: center;
+    color:  #686868;
+
+}
+.content4{
+    background-color: #f8f8f8;;
+    margin-top: 10px;
+    padding: 40px 10px;
+}
+.content4-content {
+    display: inline-block;
+    width: 50%;
+    color:  #686868;
+    font-family: Alegreya;
+    text-align: center;
+    vertical-align: top;
+    /* margin-top: 5%; */
+    margin: 20px;
+    margin-top: 30px;
+}
+.content4-img{
+    display: inline-block;
+     width:40%;
+     margin: 10px;
+    
+    }
+.content4-img img{
+    width: 100%;
+}
+.content4-content h2{
+    color: black;
+    margin-bottom: 30px;}
+ 
+.content4-content p{
+    margin: 0px 35px;
+    line-height: 1.5em;
+    font-size: 18px;
+    
+}
+.content4-par{
+  
+    text-align: left;
+    margin-left: 20%;
+}
+.content4 ul {
+text-align: left;
+margin-bottom: 50px;
+line-height: 1.5em;
+font-size: 18px;}
+
+.content4 ul li {
+    margin: 20px;
+    display: block;
+}
+.container1{
+    background-color: #403d38;
+    color: #969696;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.container1 div {
+    display: inline-block;
+    width: 20%;
+}
+
+.container1 p {
+    display: inline-block;
+    text-align: center;
+}
+.myh4{
+    margin-top: 20px;
+}
+.footer1{
+    margin-top: 0px;
+    display: block;
+   background-color:  #353330;
+   text-align: center;
+}
+.footer1 h2 {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
+.footer1 p {
+    color: white;
+}
+.footer1 a{
+    color: white;
+}
